@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenericConnectorDescriptor>
+    
+    <field id="doctrack" label="Doc Tracker Name" type="string">
+        <helpText>This field is an arbitrary name for the Connection.</helpText>
+    </field>
+
+    <operation supportsBrowse="false" types="EXECUTE"/>
+</GenericConnectorDescriptor>
